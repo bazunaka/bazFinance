@@ -1,0 +1,18 @@
+﻿<Window x:Class="bazFinanceWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:bazFinanceWPF"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="bazFinance-WPF" Height="450" Width="800">
+    <Grid Background="#ffdadada">
+        <Menu Height="25" VerticalAlignment="Top">
+            <MenuItem></MenuItem>
+            <MenuItem></MenuItem>
+            <MenuItem></MenuItem>
+            <MenuItem></MenuItem>
+        </Menu>        
+    </Grid>
+</Window>
