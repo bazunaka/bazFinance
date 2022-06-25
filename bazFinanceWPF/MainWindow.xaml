@@ -17,9 +17,12 @@
             <MenuItem Height="25" Header="Меню4" FontSize="14"></MenuItem>
         </Menu>
         <ToolBar Height="40" VerticalAlignment="Top" Margin="0,25,0,0">
-            <Separator Height="35" Margin="250,0,0,0" VerticalAlignment="Top" Width="5"/>
-            <Separator Height="35" Margin="150,0,0,0" VerticalAlignment="Top" Width="5"/>
-            <Separator Height="35" Margin="150,0,0,0" VerticalAlignment="Top" Width="5"/>
+            <Separator Height="35" Margin="230,0,0,0" VerticalAlignment="Top" Width="3"/>
+            <Label FontSize="14" VerticalContentAlignment="Center">Карты</Label>
+            <Label FontSize="14" VerticalContentAlignment="Center">Наличные</Label>
+            <Separator Height="35" Margin="40,0,0,0" VerticalAlignment="Top" Width="3"/>
+            <Label FontSize="14" VerticalContentAlignment="Center">Категории</Label>
+            <Separator Height="35" Margin="50,0,0,0" VerticalAlignment="Top" Width="3"/>
         </ToolBar>
     </Grid>
 </Window>
